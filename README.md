@@ -22,6 +22,6 @@ Traditionally, when people come to the restaurants, they order food from menu an
 Though Forder, searching restaurants and ordering can be easily performed through the app with
 internet connection. It will benefit the customers receiving their food earlier at higher quality.
 Moreover, restaurants can become more hassle free also allowing them to collect data
-( comments/feedback, time distributions, popularity, ingredients consumptions, etc). With those data,
+(comments/feedback, time distributions, popularity, ingredients consumptions, etc). With those data,
 restaurant owners can host their business more professionally. In conclusion, Forder create a win-win
 situation for both food business owners as well as the customers.
