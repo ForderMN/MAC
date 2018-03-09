@@ -19,7 +19,7 @@ general consumers，which they can order food on Forder conveniently.
 ## Impact (how it is going to help society)
 Traditionally, when people come to the restaurants, they order food from menu and then wait the food.
  However, these steps make restaurants become less efficient due to space usage and time lost.
-Though Forder, searching restaurants and ordering can be easily performed through the app with
+Through Forder, searching restaurants and ordering can be easily performed through the app with
 internet connection. It will benefit the customers receiving their food earlier at higher quality.
 Moreover, restaurants can become more hassle free also allowing them to collect data
 (comments/feedback, time distributions, popularity, ingredients consumptions, etc). With those data,
